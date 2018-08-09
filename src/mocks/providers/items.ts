@@ -16,39 +16,71 @@ export class Items {
   constructor() {
     let items = [
       {
-        "name": "Burt Bear",
-        "profilePic": "assets/img/speakers/bear.jpg",
-        "about": "Burt is a Bear."
+        "name": "মাশরাফি মুর্তজা ",
+        "profilePic": "assets/img/mashrafi.jpg",
+        "about": `
+                    Personal information
+                Full name	: Mashrafe Bin Mortaza <br>
+                Date of Birth :	5 October 1983 (age 34)
+                Narail, Bangladesh
+                Nickname :	Koushik, Mash, Narail Express [1]
+                Height :	1.91[2] m (6 ft 3 in)
+                Batting	: Right-handed
+                Bowling	: Right arm medium-fast
+                Role :	Bowler
+                Bangladesh ODI Captain
+`
+
       },
       {
-        "name": "Charlie Cheetah",
-        "profilePic": "assets/img/speakers/cheetah.jpg",
-        "about": "Charlie is a Cheetah."
+        "name": "সাকিব আল হাসান",
+        "profilePic": "assets/img/speakers/sakib.jpg",
+        "about":    
+        `
+        
+        বিস্তারিত সাকিব আল হাসান এর 
+
+        `
       },
       {
-        "name": "Donald Duck",
-        "profilePic": "assets/img/speakers/duck.jpg",
-        "about": "Donald is a Duck."
+        "name": "মুশফিকুর রহিম",
+        "profilePic": "assets/img/speakers/musi.jpeg",
+        "about": "About of musfiqure rahim "
       },
       {
-        "name": "Eva Eagle",
-        "profilePic": "assets/img/speakers/eagle.jpg",
-        "about": "Eva is an Eagle."
+        "name": "মোহাম্মদ মাহমুদুল্লাহ রিয়াদ",
+        "profilePic": "assets/img/speakers/mahamud.jpg",
+        "about": "about of mahamudulla "
       },
       {
-        "name": "Ellie Elephant",
-        "profilePic": "assets/img/speakers/elephant.jpg",
-        "about": "Ellie is an Elephant."
+        "name": "মুস্তাফিজুর রহমান",
+        "profilePic": "assets/img/speakers/mustafiz.jpeg",
+        "about": "About of mustafizur"
       },
       {
-        "name": "Molly Mouse",
-        "profilePic": "assets/img/speakers/mouse.jpg",
-        "about": "Molly is a Mouse."
+        "name": "মোহাম্মদ রুবেল হোসেন",
+        "profilePic": "assets/img/speakers/rubel.jpeg",
+        "about": "About of rubel hosain "
       },
       {
-        "name": "Paul Puppy",
-        "profilePic": "assets/img/speakers/puppy.jpg",
-        "about": "Paul is a Puppy."
+        "name": "তামিম ইকবাল খান",
+        "profilePic": "assets/img/speakers/Tamim.jpg",
+        "about": "About Tamim iqbal khan "
+      },
+      {
+        "name": "মোহাম্মদ সাব্বির রহমান",
+        "profilePic": "assets/img/speakers/Sabbir-Rahman.jpg",
+        "about": "About sabbir rahaman ruman ."
+      },
+      {
+        "name": "মোসাদ্দেক হোসেন",
+        "profilePic": "assets/img/speakers/mosaddek-hossain.jpg",
+        "about": "About musaddek hosain saikot"
+      },
+      {
+        "name": "মেহেদি হাসান মিরাজ",
+        "profilePic": "assets/img/speakers/miraz.jpg",
+        "about": "About mehady hasan miraz"
       }
     ];
 
